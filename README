@@ -1,1 +1,10 @@
 This is an example of how to use lettuce (a Python BDD tool similar to Cucumber) with Selenium2
+
+
+To run this exampe do this:
+
+mkvirtualenv bdd --no-site-packages
+workon dbb
+pip install -r requirements.txt
+lettuce
+
